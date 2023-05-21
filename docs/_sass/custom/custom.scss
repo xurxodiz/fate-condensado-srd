@@ -1,19 +1,19 @@
 @font-face {
     font-family: 'Fate Core';
-    src: url('fatecorefont.ttf');
+    src: url('_sass/custom/fatecorefont.ttf');
 }
 
-fate {
+r {
   font-family: 'Fate Core';
 }
 
-aspect {
+t {
   font-variant: small-caps;
   font-weight: bold;
   font-size: 1.1em;
 }
 
-stress {
+s {
   display: inline-block;
   border: 2px solid;
   padding: 1px;
@@ -23,6 +23,6 @@ stress {
   line-height: 17px;
   font-size: 17px;
   text-align: center;
-  font-family: var(--sans-font);
+  /*font-family: var(--sans-font);*/
   font-weight: bold;
 }

@@ -5,9 +5,9 @@ nav_order: 0
 
 # Fate Condensado
 
-<stress>123</stress>
-<fate>++-0</fate>
-<aspect>Escribo bos aspectos</aspect>
+<s>1</s><s>2</s><s>3</s>
+<r>++-0</r>
+<t>Escribo bos aspectos</t>
 
 Fate Condensado ©2020 Evil Hat Productions, LLC.
 
