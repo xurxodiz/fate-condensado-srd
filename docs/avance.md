@@ -1,7 +1,6 @@
 ---
 title: "Avance"
 nav_order: 6
-slug: "avance"
 ---
 
 # Advancement

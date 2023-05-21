@@ -1,7 +1,6 @@
 ---
 title: "Desafíos, conflitos e competicións"
 nav_order: 5
-slug: "desafios-competicions-e-conflitos"
 ---
 
 # Desafíos, competicións e conflitos

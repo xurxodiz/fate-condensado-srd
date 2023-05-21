@@ -1,7 +1,6 @@
 ---
 title: "Regras opcionais"
 nav_order: 8
-slug: "regras-opcionais"
 ---
 
 # Optional Rules

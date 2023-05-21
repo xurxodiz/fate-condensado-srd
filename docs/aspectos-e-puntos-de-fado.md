@@ -1,7 +1,6 @@
 ---
 title: "Aspectos e puntos de fado"
 nav_order: 4
-slug: "aspectos-e-puntos-de-fado"
 ---
 
 # Aspectos e puntos de fado
