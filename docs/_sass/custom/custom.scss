@@ -3,17 +3,11 @@
     src: url('../../fonts/fatecorefont.ttf');
 }
 
-r {
+r { /* dice rolls */
   font-family: 'Fate Core';
 }
 
-t {
-  font-variant: small-caps;
-  font-weight: bold;
-  font-size: 1.1em;
-}
-
-s {
+s { /* stress boxes */
   display: inline-block;
   border: 2px solid;
   padding: 1px;
@@ -25,4 +19,10 @@ s {
   text-align: center;
   text-decoration: none;
   font-weight: bold;
+}
+
+t { /* aspects */
+  font-variant: all-petite-caps;
+  font-weight: bold;
+  font-size: 1.1em;
 }
