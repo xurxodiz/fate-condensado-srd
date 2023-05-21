@@ -1,6 +1,7 @@
 ---
 title: "Dirixir o xogo"
 nav_order: 7
+slug: dirixir-o-xogo
 ---
 
 # Being the Game Master

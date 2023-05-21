@@ -1,6 +1,7 @@
 ---
 title: "Accións e roladas"
 nav_order: 3
+slug: accions-e-roladas
 ---
 
 # Accións e roladas
