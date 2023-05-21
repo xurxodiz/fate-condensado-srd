@@ -5,6 +5,10 @@ nav_order: 0
 
 # Fate Condensado
 
+<stress>123</stress>
+<fate>++-0</fate>
+<aspect>Escribo bos aspectos</aspect>
+
 Fate Condensado ©2020 Evil Hat Productions, LLC.
 
 Consulta as páxinas de licencia sitas en [http://www.faterpg.com/licensing](http://www.faterpg.com/licensing/) para máis detalles.
