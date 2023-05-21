@@ -1,1 +1,8 @@
+title: Fate Condensado
+description: Fate Condensado en galego
 remote_theme: just-the-docs/just-the-docs
+
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Volver arriba"

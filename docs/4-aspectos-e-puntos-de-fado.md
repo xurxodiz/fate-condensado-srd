@@ -1,6 +1,6 @@
 ---
-Title: "Aspectos e puntos de fado"
-Placing: 4
+title: "Aspectos e puntos de fado"
+nav_order: 4
 ---
 
 # Aspectos e puntos de fado

@@ -1,6 +1,6 @@
 ---
-Title: "Dirixir o xogo"
-Placing: 7
+title: "Dirixir o xogo"
+nav_order: 7
 ---
 
 # Being the Game Master

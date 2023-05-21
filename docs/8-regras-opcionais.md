@@ -1,6 +1,6 @@
 ---
-Title: "Regras opcionais"
-Placing: 8
+title: "Regras opcionais"
+nav_order: 8
 ---
 
 # Optional Rules

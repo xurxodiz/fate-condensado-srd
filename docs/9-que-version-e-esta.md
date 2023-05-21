@@ -1,6 +1,6 @@
 ---
-Title: "Que versión é esta?"
-Placing: 9
+title: "Que versión é esta?"
+nav_order: 9
 ---
 
 # What Version Is This?

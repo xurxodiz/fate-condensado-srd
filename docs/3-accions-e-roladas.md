@@ -1,8 +1,7 @@
 ---
-Title: "Accións e roladas"
-Placing: 3
+title: "Accións e roladas"
+nav_order: 3
 ---
-
 
 # Accións e roladas
 

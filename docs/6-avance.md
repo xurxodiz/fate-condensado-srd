@@ -1,6 +1,6 @@
 ---
-Title: "Avance"
-Placing: 6
+title: "Avance"
+nav_order: 6
 ---
 
 # Advancement

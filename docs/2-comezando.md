@@ -1,6 +1,6 @@
 ---
-Title: "Comezando"
-Placing: 2
+title: "Comezando"
+nav_order: 2
 ---
 
 # Comezando

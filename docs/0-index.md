@@ -1,6 +1,6 @@
 ---
-Title: "Fate Condensado"
-Placing: 0
+title: "Fate Condensado"
+nav_order: 0
 ---
 
 # Fate Condensado

@@ -1,6 +1,6 @@
 ---
-Title: "Desafíos, conflitos e competicións"
-Placing: 5
+title: "Desafíos, conflitos e competicións"
+nav_order: 5
 ---
 
 # Desafíos, competicións e conflitos

@@ -1,6 +1,6 @@
 ---
-Title: "Introdución"
-Placing: 1
+title: "Introdución"
+nav_order: 1
 ---
 
 # Introdución
