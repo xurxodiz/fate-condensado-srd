@@ -61,7 +61,7 @@ The pyramid
 
 <td>
 
-<dice>[0]</dice>
+<dice><s>0</s></dice>
 
 </td>
 
@@ -77,7 +77,7 @@ The pyramid
 
 <td>
 
-<dice>[0][0]</dice>
+<dice><s>0</s><s>0</s></dice>
 
 </td>
 
@@ -93,7 +93,7 @@ The pyramid
 
 <td>
 
-<dice>[0][0][0]</dice>
+<dice><s>0</s><s>0</s><s>0</s></dice>
 
 </td>
 
@@ -109,7 +109,7 @@ The pyramid
 
 <td>
 
-<dice>[0][0][0][0]</dice>
+<dice><s>0</s><s>0</s><s>0</s><s>0</s></dice>
 
 </td>
 
@@ -143,7 +143,7 @@ Not Valid
 
 <td>
 
-<dice>[0]</dice>
+<dice><s>0</s></dice>
 
 </td>
 
@@ -159,7 +159,7 @@ Not Valid
 
 <td>
 
-<dice>[0][0]</dice>
+<dice><s>0</s><s>0</s></dice>
 
 </td>
 
@@ -175,7 +175,7 @@ Not Valid
 
 <td>
 
-<dice>[0][0][0][0]</dice>
+<dice><s>0</s><s>0</s><s>0</s><s>0</s></dice>
 
 </td>
 
@@ -191,7 +191,7 @@ Not Valid
 
 <td>
 
-<dice>[0][0][0]</dice>
+<dice><s>0</s><s>0</s><s>0</s></dice>
 
 </td>
 
@@ -225,7 +225,7 @@ Valid
 
 <td>
 
-<dice>[0]</dice>
+<dice><s>0</s></dice>
 
 </td>
 
@@ -241,7 +241,7 @@ Valid
 
 <td>
 
-<dice>[0][0]</dice>
+<dice><s>0</s><s>0</s></dice>
 
 </td>
 
@@ -257,7 +257,7 @@ Valid
 
 <td>
 
-<dice>[0][0][0][0]</dice>
+<dice><s>0</s><s>0</s><s>0</s><s>0</s></dice>
 
 </td>
 
@@ -273,7 +273,7 @@ Valid
 
 <td>
 
-<dice>[0][0][0][0]</dice>
+<dice><s>0</s><s>0</s><s>0</s><s>0</s></dice>
 
 </td>
 
@@ -307,7 +307,7 @@ also Valid
 
 <td>
 
-<dice>[0]</dice>
+<dice><s>0</s></dice>
 
 </td>
 
@@ -323,7 +323,7 @@ also Valid
 
 <td>
 
-<dice>[0][0][0]</dice>
+<dice><s>0</s><s>0</s><s>0</s></dice>
 
 </td>
 
@@ -339,7 +339,7 @@ also Valid
 
 <td>
 
-<dice>[0][0][0]</dice>
+<dice><s>0</s><s>0</s><s>0</s></dice>
 
 </td>
 
@@ -355,7 +355,7 @@ also Valid
 
 <td>
 
-<dice>[0][0][0]</dice>
+<dice><s>0</s><s>0</s><s>0</s></dice>
 
 </td>
 

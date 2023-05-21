@@ -23,7 +23,7 @@ Sempre que realices unha acción, segue estes pasos:
 
 1. A ficción por diante: describe o que tentas facer, _e despois_ escolle a habilidade e acción que encaixen.
 2. Rola catro dados.
-3. Suma os símbolos nos dados: un ➕ é +1, ➖ é -1, e ⬜ é 0. Isto producirá un resultado dos dados entre -4 e 4.
+3. Suma os símbolos nos dados: un <r>+</r> é +1, <r>-</r> é -1, e <r>0</r> é 0. Isto producirá un resultado dos dados entre -4 e 4.
 4. Súmalle o resultado dos dados á túa habilidade.
 5. Modifica este número [invocando aspectos](/fate-condensado-srd/aspectos-e-puntos-de-fado#invocacions) e usando [talentos](/fate-condensado-srd/comezando#talentos).
 6. Declara o teu resultado final, o que se chama o **esforzo**.
@@ -46,7 +46,7 @@ Cando realices unha acción pero os dados non te acompañen, non tes por que res
 
 Cando un aspecto puider axudarte lexítimamente nas túas tentativas, describe como é de axuda e gasta un punto de fado (ou unha invocación de balde) para **invocalo**. Decidir o que é lexítimo e o que non ríxese pola **regra da trapallada**: calquera na mesa pode retrucar «vaia trapallada!» a unha invocación de aspecto. Falando claro, a regra da trapallada é unha ferramenta de calibración que calquera na mesa pode empregar para axudar o grupo a manter o xogo na súa visión e concepto acordados. As [ferramentas de seguridade](/fate-condensado-srd/dirixir-o-xogo#ferramentas-de-seguridade) tamén se poden usar dun xeito semellante.
 
-Tes dúas opcións se a túa invocación parece unha trapallada. A primeira, retirares a túa invocación e tentares outra cousa, talvez mediante un aspecto diferente. A segunda, terdes un debate rápido sobre por que pensas que o aspecto é acaído. Se a outra persoa segue sen estar convencida, retira a invocación e pasa páxina. Se a convences, continúa coa invocación como de normal. A regra da trapallada existe para axudar a que todo o mundo na mesa goce e o pase ben. Úsaa cando algo non che soe ben, non che teña sentido, ou non encaixe co ton. Alguén que invoque `Causo boas primeiras impresións` para guindar un coche non pasará a proba da trapallada. Pero talvez esa personaxe teña un talento sobrenatural que a faga incriblemente forte, tan forte como para guindar un coche, e esta sexa a súa manobra inicial nunha loita contra un monstro terrorífico. Nese caso, se cadra `Causo boas primeiras impresións` ten sentido. 
+Tes dúas opcións se a túa invocación parece unha trapallada. A primeira, retirares a túa invocación e tentares outra cousa, talvez mediante un aspecto diferente. A segunda, terdes un debate rápido sobre por que pensas que o aspecto é acaído. Se a outra persoa segue sen estar convencida, retira a invocación e pasa páxina. Se a convences, continúa coa invocación como de normal. A regra da trapallada existe para axudar a que todo o mundo na mesa goce e o pase ben. Úsaa cando algo non che soe ben, non che teña sentido, ou non encaixe co ton. Alguén que invoque <t>Causo boas primeiras impresións</t>para guindar un coche non pasará a proba da trapallada. Pero talvez esa personaxe teña un talento sobrenatural que a faga incriblemente forte, tan forte como para guindar un coche, e esta sexa a súa manobra inicial nunha loita contra un monstro terrorífico. Nese caso, se cadra <t>Causo boas primeiras impresións</t>ten sentido. 
 
 Cando invoques un aspecto, podes **gañar un bonificador +2** na túa rolada ou **volver a rolar os catro dados**; ou engadir +2 á dificultade dunha rolada allea, se aplica. Podes invocar máis dun aspecto na mesma rolada, pero non podes invocar o mesmo aspecto máis dunha vez na mesma rolada. Hai unha excepción: podes gastar tantas _invocacións de balde_ dun aspecto como queiras na mesma rolada.
 
@@ -93,7 +93,7 @@ En segundo lugar está o **éxito a custo alto**. Das feito o que querías facer
 
 Finalmente, podes **recibir un impacto**, que terás que absorber con estrés ou consecuencias ou sufrir algún outro revés. Este tipo de fracaso é máis frecuente cando te defendes de ataques ou ao superares obstáculos perigosos. É diferente dun fallo porque afecta só á personaxe, e non ao grupo enteiro. Tamén é diferente do éxito a custo alto, xa que o éxito non é necesariamente unha posibilidade.
 
-> Eva é quen de abrir a porta da caixa forte, pero cando agarra o picaporte, nota unha picada no dorso da man. Non logrou desactivar a trampa! Anota a consecuencia leve `Envelenada`.
+> Eva é quen de abrir a porta da caixa forte, pero cando agarra o picaporte, nota unha picada no dorso da man. Non logrou desactivar a trampa! Anota a consecuencia leve <t>Envelenada</t>.
 
 Estas opcións pódense mesturar: un fallo con dano pode ser duro pero necesario segundo a ocasión. Éxito a custo de dano tamén é unha opción, certamente.
 
@@ -162,7 +162,7 @@ As posibles resolucións ao superares son:
 
 * **Se tes éxito con estilo**, é un éxito e por riba obtés un impulso.
 
-> Carolina abriuse paso ata unha instalación científica na Antártida. Os edificios están destrozados e os traballadores, desaparecidos. Quere buscar entre os cascallos algunha pista. A DX pídelle que role Investigación contra unha dificultade razoable (+2). Carolina saca ⬜⬜➕➕ nos dados, o que sumado á súa Investigación regular (+1), resulta nun esforzo bo (+3): un éxito! A DX describe a pista que atopa: pegadas na neve feitas por algún tipo de  criaturas inhumanas con moitas patas delgadiñas.
+> Carolina abriuse paso ata unha instalación científica na Antártida. Os edificios están destrozados e os traballadores, desaparecidos. Quere buscar entre os cascallos algunha pista. A DX pídelle que role Investigación contra unha dificultade razoable (+2). Carolina saca <r>00++</r> nos dados, o que sumado á súa Investigación regular (+1), resulta nun esforzo bo (+3): un éxito! A DX describe a pista que atopa: pegadas na neve feitas por algún tipo de  criaturas inhumanas con moitas patas delgadiñas.
 
 As accións de Superar úsanse a miúdo para determinar o acceso ou percepción dunha personaxe a un feito ou pista. Neses casos, ten moi presentes as opcións para éxito a custo. Cando non reparar dun detalle pode paralizar a partida, non des opción a ese fracaso e céntrate no custo.
 
@@ -196,9 +196,9 @@ Se se trata dun aspecto existente, público ou non, as posibles resolucións son
 
 > Eva enfróntase cara a cara cun shoggoth, unha imparable mole de músculo. Consciente de que é poderosa de máis para atacala directamente, decide que a súa mellor opción é distraela, e anuncia: «Quero facer un cóctel Molotov para guindarllo enriba e prenderlle lume!».
 >
-> A DX conclúe que atinar no shoggoth non ten truco ningún, así que a rolada é realmente de Aparellos: dará atopado a tempo algo inflamable co que argallar o cóctel? Fixa unha dificultade boa (+3). Eva ten un nivel regular (+1) en Aparellos, pero rola ⬜➕➕➕, dándolle un esforzo total formidable (+4).
+> A DX conclúe que atinar no shoggoth non ten truco ningún, así que a rolada é realmente de Aparellos: dará atopado a tempo algo inflamable co que argallar o cóctel? Fixa unha dificultade boa (+3). Eva ten un nivel regular (+1) en Aparellos, pero rola <r>0+++</r>, dándolle un esforzo total formidable (+4).
 >
-> Eva monta o cóctel Molotov e lánzallo á besta. O shoggoth está agora `Ardendo`, e Eva ten unha invocación de balde nese aspecto. A besta fica distraída como ela quería e, se tenta perseguila, Eva poderá servirse da invocación para axudarse a fuxir.
+> Eva monta o cóctel Molotov e lánzallo á besta. O shoggoth está agora <t>Ardendo</t>, e Eva ten unha invocación de balde nese aspecto. A besta fica distraída como ela quería e, se tenta perseguila, Eva poderá servirse da invocación para axudarse a fuxir.
 
 
 ### Atacar
@@ -219,7 +219,7 @@ As posibles resolucións ao atacares son:
 
 * **Se tes éxito con estilo**, causas un impacto como no éxito, pero podes reducir os chanzos do impacto en un para obter un impulso.
 
-> Ruth topouse cun cadáver alzado por poderes arcanos para completar algún propósito escuro. Decide zoscarlle. Ten unha Pelexa formidable (+4), pero rola ➖➖⬜⬜, resultando nun esforzo razoable (+2).
+> Ruth topouse cun cadáver alzado por poderes arcanos para completar algún propósito escuro. Decide zoscarlle. Ten unha Pelexa formidable (+4), pero rola <r>--00</r>, resultando nun esforzo razoable (+2).
 
 ### Defender
 
@@ -239,7 +239,7 @@ As posibles resolucións ao defenderes son:
 
 * **Se tes éxito con estilo**, non recibes impacto, negas a acción inimiga, e mesmo obtés un impulso ao impoñerte por un momento.
 
-> Seguindo co exemplo anterior, o cadáver ten dereito a defenderse contra Ruth. A DX rola ➖⬜⬜➕, o que non altera o Atletismo mediocre (+0) da criatura.
+> Seguindo co exemplo anterior, o cadáver ten dereito a defenderse contra Ruth. A DX rola <r>-00+</r>, o que non altera o Atletismo mediocre (+0) da criatura.
 >
 > Xa que o esforzo de Ruth foi máis alto, o seu ataque ten éxito por dous chanzos, e o cadáver está máis perto de ser vencido definitivamente. Se o cadáver rolase mellor, a súa defensa tería éxito, e a aberración zombi evitaría recibir un impacto.
 

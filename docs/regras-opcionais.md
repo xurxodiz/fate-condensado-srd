@@ -13,9 +13,9 @@ These are a few optional or alternative rules you can decide to use in your game
 
 The _Fate Condensed_ version of conditions takes each consequence level and splits it into two conditions of half the value.
 
-**[1]** **Hurt** (Mild) **[1]** **Scared** (Mild)  
-**[2]** **Injured** (Moderate) **[2]** **Shaken** (Moderate)  
-**[3]** **Wounded** (Severe) **[3]** **Demoralized** (Severe)
+**<s>1</s>** **Hurt** (Mild) **<s>1</s>** **Scared** (Mild)  
+**<s>2</s>** **Injured** (Moderate) **<s>2</s>** **Shaken** (Moderate)  
+**<s>3</s>** **Wounded** (Severe) **<s>3</s>** **Demoralized** (Severe)
 
 These correspond to physical and mental states—but just because you’ve taken a physical hit doesn’t mean you can’t also mark a mental condition, and vice-versa, so long as it makes sense. Attacks are traumatic!
 

@@ -13,7 +13,7 @@ Falando diso: vamos ver o que _si_ precisas!
 
 Para xogares a _Fate Condensado_, precisarás entre dúas e seis amigas —exercendo unha delas como Dirección de Xogo (DX)—,  algúns dados, algunhas doas, algo para escribir, papeis e algo no que facerdes pequenas notas (por exemplo, pósits).
 
-_Fate Condensado_ usa **dados Fate** cando as personaxes actúan. Os dados Fate son dados de seis caras nos que dúas caras teñen un ⬜, dúas teñen un ➕ e as outras dúas teñen un ➖. Cun set de catro dados xa abonda, pero terdes un set por xogadora é o ideal. Tamén hais outras alternativas, como usardes dados de seis caras dos de toda a vida (1-2 = ➖, 3-4 = ⬜, 5-6 = ➕) ou a **Baralla de Fate**, que emprega cartas en troques de dados. En calquera caso, neste texto usaremos sempre *rolar* por simplificar.
+_Fate Condensado_ usa **dados Fate** cando as personaxes actúan. Os dados Fate son dados de seis caras nos que dúas caras teñen un <r>0</r>, dúas teñen un <r>+</r> e as outras dúas teñen un <r>-</r>. Cun set de catro dados xa abonda, pero terdes un set por xogadora é o ideal. Tamén hais outras alternativas, como usardes dados de seis caras dos de toda a vida (1-2 = <r>-</r>, 3-4 = <r>0</r>, 5-6 = <r>+</r>) ou a **Baralla de Fate**, que emprega cartas en troques de dados. En calquera caso, neste texto usaremos sempre *rolar* por simplificar.
 
 ### Mudanzas respecto a Fate Básico
 

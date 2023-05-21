@@ -5,8 +5,6 @@ nav_order: 0
 
 # Fate Condensado
 
-Non cabe dúbida de que se tes estes estreses <s>1</s><s>2</s><s>3</s> e rolas <r>++-0</r> cómpre riscar o teu aspecto <t>Escribo bos aspectos</t>, madia leva!
-
 Fate Condensado ©2020 Evil Hat Productions, LLC.
 
 Consulta as páxinas de licencia sitas en [http://www.faterpg.com/licensing](http://www.faterpg.com/licensing/) para máis detalles.

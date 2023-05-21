@@ -5,17 +5,17 @@ nav_order: 4
 
 # Aspectos e puntos de fado
 
-Un **aspecto** é unha frase ou palabra que describe algo especial sobre unha persoa, un lugar, unha cousa, unha situación ou un grupo. Case calquera cousa que poidas pensar ten aspectos. Unha persoa pode ter reputación de ser `A mellor francotiradora do ermo` (le máis adiante sobre este tipos de aspectos). Unha habitación pode estar `En chamas` tras tirares ao chan un candil. Logo de teres un encontro cun monstro, podes ficar `Aterrada`. Os aspectos son a forma de irdes alterando a historia consonte as tendencias, habilidades ou problemas das vosas personaxes.
+Un **aspecto** é unha frase ou palabra que describe algo especial sobre unha persoa, un lugar, unha cousa, unha situación ou un grupo. Case calquera cousa que poidas pensar ten aspectos. Unha persoa pode ter reputación de ser <t>A mellor francotiradora do ermo</t> (le máis adiante sobre este tipos de aspectos). Unha habitación pode estar <t>En chamas</t> tras tirares ao chan un candil. Logo de teres un encontro cun monstro, podes ficar <t>Aterrada</t>. Os aspectos son a forma de irdes alterando a historia consonte as tendencias, habilidades ou problemas das vosas personaxes.
 
 ## Os aspectos sempre son certos
 
-Podes [invocar os aspectos](#invocacions) para obter un bonificador a unha rolada e [forzalos](#forzados) para crear unha complicación. Pero mesmo fóra desas situacións, os aspectos seguen a afectar á narrativa. Se tes unha monstrosidade carnosa `Atrapada nunha prensa hidráulica`, iso é _certo_. Non pode facer moito mentres siga alí metida, e non sairá doadamente.
+Podes [invocar os aspectos](#invocacions) para obter un bonificador a unha rolada e [forzalos](#forzados) para crear unha complicación. Pero mesmo fóra desas situacións, os aspectos seguen a afectar á narrativa. Se tes unha monstrosidade carnosa <t>Atrapada nunha prensa hidráulica</t>, iso é _certo_. Non pode facer moito mentres siga alí metida, e non sairá doadamente.
 
-Básicamente, «os aspectos sempre son certos» significa que **os aspectos conceden ou retiran permiso respecto do que pode acontecer na historia** (e tamén poden [afectar á dificultade](/fate-condensado-srd/dirixir-o-xogo#fixar-a-dificultade-e-oposicion)). Se a devandita monstrosidade está `Atrapada`, a DX (e todo o mundo) ten que respectar ese feito. A criatura perdeu permiso para moverse ata que ocorra algo que quite ese aspecto, ben sexa unha rolada de superar con éxito (o que requeriría pola súa parte un aspecto que a xustifique, como `Forza sobrehumana`) ou algún babeco que afrouxe a presa. Do mesmo xeito, se tes `Pernas melloradas cibernéticamente` parecería claro que che dan permiso para saltares por riba dos muros nun só chimpo sen ter sequera que rolar.
+Básicamente, «os aspectos sempre son certos» significa que **os aspectos conceden ou retiran permiso respecto do que pode acontecer na historia** (e tamén poden [afectar á dificultade](/fate-condensado-srd/dirixir-o-xogo#fixar-a-dificultade-e-oposicion)). Se a devandita monstrosidade está <t>Atrapada</t>, a DX (e todo o mundo) ten que respectar ese feito. A criatura perdeu permiso para moverse ata que ocorra algo que quite ese aspecto, ben sexa unha rolada de superar con éxito (o que requeriría pola súa parte un aspecto que a xustifique, como <t>Forza sobrehumana</t>) ou algún babeco que afrouxe a presa. Do mesmo xeito, se tes <t>Pernas melloradas cibernéticamente</t> parecería claro que che dan permiso para saltares por riba dos muros nun só chimpo sen ter sequera que rolar.
 
 Isto non quere dicir que poidas crear calquera aspecto que queiras e esgrimir a súa veracidade como excusa para todo. Os aspectos conceden moito poder para modificar a historia, certo, pero canda ese poder vén tamén a responsabilidade de xogar dentro das limitacións da historia. Os aspectos teñen que ir aliñados coa percepción da mesa do que é lícito. **Se un aspecto fai torcer o bico, ten que ser reescrito**.
 
-Claro, a ti _gustaríache_ usar a acción de crear unha vantaxe para impoñer o aspecto `Desmembrado` nese supersoldado fúnxico, pero é evidente que iso se mete no ámbito da acción de ataque, e ademáis, rabenarlle un brazo non é tan doado (pero como consecuencia si podería funcionar, le máis adiante). Podes _dicir_ que es `A mellor tiradora do mundo enteiro`, pero terás que respaldalo coas túas habilidades. E por moito que quixeses declararte `Inmune ás balas`, retirando a todo o mundo o permiso de facerte dano a tiros, ninguén o aceptaría a menos que esteades a xogar unha partida na que os aspectos sexan superpoderes.
+Claro, a ti _gustaríache_ usar a acción de crear unha vantaxe para impoñer o aspecto <t>Desmembrado</t> nese supersoldado fúnxico, pero é evidente que iso se mete no ámbito da acción de ataque, e ademáis, rabenarlle un brazo non é tan doado (pero como consecuencia si podería funcionar, le máis adiante). Podes _dicir_ que es <t>A mellor tiradora do mundo enteiro</t>, pero terás que respaldalo coas túas habilidades. E por moito que quixeses declararte <t>Inmune ás balas</t>, retirando a todo o mundo o permiso de facerte dano a tiros, ninguén o aceptaría a menos que esteades a xogar unha partida na que os aspectos sexan superpoderes.
 
 ## Que tipo de aspectos existen?
 
@@ -26,25 +26,25 @@ Hai [infinitas variedades de aspectos](#outros-tipos-de-aspectos), pero sen impo
 Estes aspectos son os que figuran na túa ficha de personaxe, como o concepto ou o problema. Describen trazos de personalidade, detalles importantes do teu pasado, relacións que tes con outra xente, obxectos ou títulos importantes que posúes, problemas cos que estás a lidar ou metas cara as que estás a traballar, ou reputación e obligacións que pesan sobre ti. Estes aspectos mudan principalmente durante os [fitos](/fate-condensado-srd/avance#fitos).
 
 
-Exemplos: `Líder da miña banda de superviventes`, `Atenta aos detalles`, `Debo protexer o meu irmán`
+Exemplos: <t>Líder da miña banda de superviventes</t>, <t>Atenta aos detalles</t>, <t>Debo protexer o meu irmán`
 
 ### Aspectos de situación
 
 Estes aspectos describen a contorna ou escenario no que está a acontecer a acción. Un aspecto de situación desaparece normalmente ao final da escena da que fixo parte ou cando alguén realiza unha acción que o mudaría ou se libraría del. Esencialmente, duran apenas mentres dure a situación que representan.
 
-Exemplos: `Ardendo`, `Brillo do sol`, `Turba de xente enfurecida`, `Derrubada no chan`, `Perseguida pola policía`
+Exemplos: <t>Ardendo</t>, <t>Brillo do sol</t>, <t>Turba de xente enfurecida</t>, <t>Derrubada no chan</t>, <t>Perseguida pola policía`
 
 ### Consecuencias
 
 Estes aspectos representan feridas e outros traumas adquiridos por [absorber un impacto](/fate-condensado-srd/desafios-competicions-e-conflitos#recibir-dano), habitualmente debido a ataques.
 
-Exemplos: `Escordadura de nocello`, `Conmoción cerebral`, `Inseguridade paralizante`
+Exemplos: <t>Escordadura de nocello</t>, <t>Conmoción cerebral</t>, <t>Inseguridade paralizante`
 
 ### Impulsos
 
 Un **impulso** é un tipo especial de aspecto que representa unha situación extremadamente pasadía ou menor. Os impulsos non se poden forzar, nin se pode gastar un punto de fado neles para invocalos. Podes invocalos unha vez de balde e despois desaparecen. Un impulso que quede sen usar desaparece cando a vantaxe que representa xa non exista, o que pode acontecer tras uns segundos ou o que dure unha acción. Nunca persisten máis alá da fin dunha escena, e podes agardar a darlles nome ata que os vaias a usar. Se controlas un impulso, podes pasarllo a unha aliada se resulta razoable.
 
-**Exemplos**: `No punto de mira`, `Distraído`, `Cambaleando`
+**Exemplos**: <t>No punto de mira</t>, <t>Distraído</t>, <t>Cambaleando`
 
 ## Que podo facer cos aspectos?
 
@@ -64,7 +64,7 @@ Tamén podes invocar os aspectos gratuitamente, _sempre e cando_ teñas unha inv
 
 Se buscas unha forma doada de deixar espazo para incorporar aspectos nunha rolada, proba a narrar a túa acción con puntos suspensivos ao final, e logo rematar a acción co aspecto que queiras invocar. Así:
 
-> Rosa di: «Tento descifrar as runas e…» (rola os dados, aborrece o resultado) «…e como `Do que non vin en persoa, seguro que lin ao respecto`…» (gasta un punto de fado) «…enseguida comezo a divagar sobre a súa orixe».
+> Rosa di: «Tento descifrar as runas e…» (rola os dados, aborrece o resultado) «…e como <t>Do que non vin en persoa, seguro que lin ao respecto</t>…» (gasta un punto de fado) «…enseguida comezo a divagar sobre a súa orixe».
 
 #### Invocacións hostís
 
@@ -122,9 +122,9 @@ As invocacións hostís axúdante no momento presente. Ademais dos teus aspectos
 
 Podes crear ou descubrir un aspecto de situación usando a acción de [crear unha vantaxe](/fate-condensado-srd/accions-e-roladas#crear-unha-vantaxe). Os impulsos tamén se poden crear desa forma, ou como resultado dun empate ou éxito con estilo cando atacas, defendes ou superas un obstáculo.
 
-Podes quitar un aspecto se es quen de pensar como podería eliminalo a túa personaxe: rociando o `Lume abrasador` cun extintor ou usando manobras evasivas para escapar do garda que está `Pisándoche os talóns`. Dependendo da situación, isto podería requerir unha acción de [superar](/fate-condensado-srd/accions-e-roladas#superar); se for así, un opoñente podería usar a acción de defender para tentar manter o aspecto, se é quen de explicar que fai exactamente.
+Podes quitar un aspecto se es quen de pensar como podería eliminalo a túa personaxe: rociando o <t>Lume abrasador</t> cun extintor ou usando manobras evasivas para escapar do garda que está <t>Pisándoche os talóns</t>. Dependendo da situación, isto podería requerir unha acción de [superar](/fate-condensado-srd/accions-e-roladas#superar); se for así, un opoñente podería usar a acción de defender para tentar manter o aspecto, se é quen de explicar que fai exactamente.
 
-Con todo, se non hai un obstáculo narrativo para poderes quitar o aspecto, podes quitalo sen máis. Se estás `Atada e amordazada` e unha amiga te desata, o aspecto desaparece. Se non hai nada que te pare, non é necesario rolar.
+Con todo, se non hai un obstáculo narrativo para poderes quitar o aspecto, podes quitalo sen máis. Se estás <t>Atada e amordazada</t> e unha amiga te desata, o aspecto desaparece. Se non hai nada que te pare, non é necesario rolar.
 
 ## Outros tipos de aspectos
 

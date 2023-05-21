@@ -31,7 +31,7 @@ As vosas PX compoñense dos seguintes elementos:
 
 Os **aspectos** son frases curtas que describen quen é a túa personaxe ou o que é importante para ela. Poden referirse ás súas cualidades físicas ou mentais, ou á súa historia, crenzas, adestramento, relacións ou mesmo unha peza de equipamento particularmente importante.
 
-O primeiro que debes saber é que [**os aspectos son certos**](/fate-condesado/aspectos-e-puntos-de-fado#os-aspectos-sempre-son-certos). Noutras palabras, a definición que fagas da túa personaxe será real e verdadeira na historia que estades a contar. Se escribes que a túa personaxe é unha `Francotiradora vedoira`, entón _é_ unha francotiradora vedoira. Acábaslle de contar a todas que a túa personaxe é unha tiradora de primeira e ve o futuro. 
+O primeiro que debes saber é que [**os aspectos son certos**](/fate-condesado/aspectos-e-puntos-de-fado#os-aspectos-sempre-son-certos). Noutras palabras, a definición que fagas da túa personaxe será real e verdadeira na historia que estades a contar. Se escribes que a túa personaxe é unha <t>Francotiradora vedoira</t>, entón _é_ unha francotiradora vedoira. Acábaslle de contar a todas que a túa personaxe é unha tiradora de primeira e ve o futuro. 
 
 Tamén usaredes os aspectos en xogo para facer mudanzas á historia. Daránche permiso para mellorar as túas roladas de dados e establecer feitos sobre o mundo. Por último, os aspectos poden concederche **puntos de fado** se crean complicacións para a túa personaxe, así que para escribires os aspectos máis versátiles posíbeis, tenta pensar naqueles de duplo gume que traballan tanto no teu prol como na túa contra.
 
@@ -197,7 +197,7 @@ _Posto que **[describe de que forma es abraiante ou tes un equipamento incrible]
 
 Exemplo de talento que outorga bonificador:
 
-> Posto que son **un francotirador do exército**, obteño +2 ao usar **Tiro** para **atacar** cando **tiver un albo `No punto de mira`**.
+> Posto que son **un francotirador do exército**, obteño +2 ao usar **Tiro** para **atacar** cando **tiver un albo <t>No punto de mira</t>**.
 
 **Talentos que mudan as regras**: O segundo tipo de talento **muda as regras do xogo**. Esta categoría é ampla e inclúe, pero non se limita, ao seguinte:
 
@@ -224,10 +224,10 @@ O teu nivel en Vigor condiciona cantas caixas de estrés físico tes en total. V
 
 | Vigor/Vontade                  | Estrés físico/mental |
 | ------------------------------ | -------------------- |
-| Mediocre (+0)                  | [1][1][1]     |
-| Regular (+1) ou razoable (+2)  | [1][1][1] [1]   |
-| Bo (+3) ou formidable (+4)     | [1][1][1] [1][1][1] |
-| Soberbio (+5) ou maior         | [1][1][1] [1][1][1] e un segundo espazo de consecuencia leve específicamente para impactos físicos ou mentais |
+| Mediocre (+0)                  | <s>1</s><s>1</s><s>1</s>     |
+| Regular (+1) ou razoable (+2)  | <s>1</s><s>1</s><s>1</s> <s>1</s>   |
+| Bo (+3) ou formidable (+4)     | <s>1</s><s>1</s><s>1</s> <s>1</s><s>1</s><s>1</s> |
+| Soberbio (+5) ou maior         | <s>1</s><s>1</s><s>1</s> <s>1</s><s>1</s><s>1</s> e un segundo espazo de consecuencia leve específicamente para impactos físicos ou mentais |
 
 Aprenderás máis sobre como funcionan o estrés e as consecuencias na sección [_Recibir dano_](/fate-condensado-srd/desafios-competicions-e-conflitos#recibir-dano).
 
@@ -239,7 +239,7 @@ Hai outras particularidades deste estilo que cómpre que teñas en conta.
 
 * Como verás na sección [_Recibir dano_](/fate-condensado-srd/desafios-competicions-e-conflitos#recibir-dano), coas caixas de 1 punto podes marcar tantas como ti queiras cando che impactan (no estilo crecente de Fate Básico, pola contra, estabas limitado a marcar unha caixa por impacto).
 * Este estilo acompaña ao costume de Fate Básico de ter barras separadas para estrés físico e mental, en troques de unha barra unificada como en Fate Acelerado. Se prefires unha barra unificada, engade tres caixas máis para compensar, e usa _ou_ Vigor _ou_ Vontade, o de máis nivel, para alongala como se indica na táboa.
-* Unha absorción de tres puntos en cada barra non che é moito! Se notades que as personaxes se sinten un pouco fráxiles nas partidas, talvez queirades engadir unha ou dúas caixas máis á cantidade predeterminada. Todo depende de como de rápido vaian chegando as consecuencias. (Co estilo vello, unha barra con [1][2] absorbía entre 2 e 3 de estrés, [1][2][3] de 3 a 6, [1][2][3][4] de 4 a 10).
+* Unha absorción de tres puntos en cada barra non che é moito! Se notades que as personaxes se sinten un pouco fráxiles nas partidas, talvez queirades engadir unha ou dúas caixas máis á cantidade predeterminada. Todo depende de como de rápido vaian chegando as consecuencias. (Co estilo vello, unha barra con <s>1</s><s>2</s> absorbía entre 2 e 3 de estrés, <s>1</s><s>2</s><s>3</s> de 3 a 6, <s>1</s><s>2</s><s>3</s><s>4</s> de 4 a 10).
 
 
 ### Derradeiros detalles
