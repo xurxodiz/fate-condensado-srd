@@ -1,7 +1,7 @@
 ---
 title: "Comezando"
 nav_order: 2
-slug: comezando
+slug: "comezando"
 ---
 
 # Comezando
