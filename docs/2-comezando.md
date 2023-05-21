@@ -31,11 +31,11 @@ As vosas PX compoñense dos seguintes elementos:
 
 Os **aspectos** son frases curtas que describen quen é a túa personaxe ou o que é importante para ela. Poden referirse ás súas cualidades físicas ou mentais, ou á súa historia, crenzas, adestramento, relacións ou mesmo unha peza de equipamento particularmente importante.
 
-O primeiro que debes saber é que [**os aspectos son certos**](/fate-condesado/aspectos-e-puntos-de-fado#os-aspectos-sempre-son-certos). Noutras palabras, a definición que fagas da túa personaxe será real e verdadeira na historia que estades a contar. Se escribes que a túa personaxe é unha <aspect>Francotiradora vedoira</aspect>, entón _é_ unha francotiradora vedoira. Acábaslle de contar a todas que a túa personaxe é unha tiradora de primeira e ve o futuro. 
+O primeiro que debes saber é que [**os aspectos son certos**](/fate-condesado/aspectos-e-puntos-de-fado#os-aspectos-sempre-son-certos). Noutras palabras, a definición que fagas da túa personaxe será real e verdadeira na historia que estades a contar. Se escribes que a túa personaxe é unha `Francotiradora vedoira`, entón _é_ unha francotiradora vedoira. Acábaslle de contar a todas que a túa personaxe é unha tiradora de primeira e ve o futuro. 
 
 Tamén usaredes os aspectos en xogo para facer mudanzas á historia. Daránche permiso para mellorar as túas roladas de dados e establecer feitos sobre o mundo. Por último, os aspectos poden concederche **puntos de fado** se crean complicacións para a túa personaxe, así que para escribires os aspectos máis versátiles posíbeis, tenta pensar naqueles de duplo gume que traballan tanto no teu prol como na túa contra.
 
-Para aprenderes máis sobre os aspectos e o que fai que un sexa bo, podes ler a sección [_Aspectos e puntos de fado_](/fate-condensado/aspectos-e-puntos-de-fado).
+Para aprenderes máis sobre os aspectos e o que fai que un sexa bo, podes ler a sección [_Aspectos e puntos de fado_](/fate-condensado-srd/aspectos-e-puntos-de-fado).
 
 **No inicio, vaslle dar á túa personaxe cinco aspectos**: un concepto, un problema, unha relación e outros dos libres. Comeza polo concepto e segue desde aí. 
 
@@ -162,21 +162,21 @@ Descríbense a continuación estas habilidades:
 Cando constrúas a túa propia implementación de Fate, o primeiro no que debes pensar es en se manterás ou non a mesma lista de habilidades. A miúdo poderás traballar coa que che damos, combinando, trocando ou dividindo algunhas delas. Pero é posible que a granularidade da lista predeterminada de exemplo non sexa do teu agrado. Aquí tes algunhas cousas nas que cavilar:
 
 * A lista predeterminada ten 19 habilidades, e as xogadoras soben o nivel das súas personaxes por riba de mediocre (+0) en 10 delas. Se mudas o número de habilidades, pode que queiras mudar tamén como se distribúen os niveis.
-* As nosas habilidades predeterminadas céntranse en responder a pregunta «que podes facer?», pero a túa lista non ten por que facer o mesmo. Pode que queiras unha lista centrada en «en que cres?», na pregunta «como fas as cousas?» (igual que nos enfoques de _Fate Acelerado_), nos roles nunha banda de ladróns e estafadores, etcétera.
-* Os niveis en Fate están estruturados para respaldar nichos de personaxe. Por iso, na predeterminada, as xogadoras comezan cunha forma de «pirámide». Asegúrate de que esa protección do nicho é posible calquera que for a lista que crees.
+* As nosas habilidades predeterminadas céntranse en responder a pregunta «que podes facer?», pero a túa lista non ten por que facer o mesmo. Pode que queiras unha lista centrada na pregunta «en que cres?», en «como fas as cousas?» (igual que nos enfoques de _Fate Acelerado_), nos roles nunha banda de ladróns e estafadores, etcétera.
+* Os niveis en Fate están estruturados para respaldar nichos de personaxe. Por iso, na lista predeterminada, as xogadoras comezan cunha forma de «pirámide». Asegúrate de que esa protección do nicho é posible calquera que for a lista que crees.
 * A mellor habilidade debería comezar por volta de formidable (+4). Podes subilo ou baixalo ao teu gusto, pero non perdas de vista o que iso significa para os niveis de dificultade e das habilidades opostas ás que se enfrontarán as túas PX.
 
-> Federica decide facer unha partida de Fate no espazo, cunha lista de habilidades máis breve centrada en palabras de acción. Decídese pola seguinte lista de nove habilidades: Afoutar, Argallar, Eludir, Falar, Loitar, Moverse, Saber, Percibir e Pilotar. Tamén lle gusta a idea dunha forma de «diamante» en vez dunha pirámide, así que pide ás súas xogadoras que repartan os seus niveis da seguinte forma: un formidable (+4), dous bos (+3), tres razoables (+2), dous regulares (+1) e un mediocre (+0). As súas PXs terán moito solapamento e competencias compartidas debido á parte grosa do diamante, pero manterán o seu nicho protexido grazas ao cumio do diamante.
+> Daniela decide facer unha partida de Fate no espazo, cunha lista de habilidades máis breve centrada en palabras de acción. Decídese pola seguinte lista de nove habilidades: Afoutar, Argallar, Eludir, Falar, Loitar, Moverse, Saber, Percibir e Pilotar. Tamén lle gusta a idea dunha forma de «diamante» en vez dunha pirámide, así que pide ás súas xogadoras que repartan os seus niveis da seguinte forma: un formidable (+4), dous bos (+3), tres razoables (+2), dous regulares (+1) e un mediocre (+0). As súas PXs terán moito solapamento e competencias compartidas debido á parte grosa do diamante, pero manterán o seu nicho protexido grazas ao cumio do diamante.
 
-Se estás a pensar en facer a túa propia lista de habilidades para a túa partida e buscas ideas para inspirar a túa imaxinación, vai á sección de [regras opcionais](/fate-condensado/regras-opcionais#mudar-a-lista-de-habilidades).
+Se estás a pensar en facer a túa propia lista de habilidades para a túa partida e buscas ideas para inspirar a túa imaxinación, vai á sección de [regras opcionais](/fate-condensado-srd/regras-opcionais#mudar-a-lista-de-habilidades).
 
 ### Recarga
 
-A túa **recarga** é o número mínimo de [**puntos de fado**](/fate-condensado/aspectos-e-puntos-de-fado) cos que comeza a túa personaxe ao principio de cada sesión. A túa personaxe empeza cunha recarga de 3.
+A túa **recarga** é o número mínimo de [**puntos de fado**](/fate-condensado-srd/aspectos-e-puntos-de-fado) cos que comeza a túa personaxe ao principio de cada sesión. A túa personaxe empeza cunha recarga de 3.
 
 Comezas cada sesión con, polo menos, tantos puntos de fado como a túa recarga. Lembra deixar anotado cantos puntos de fado che sobran ao final de cada sesión: se tiveres máis puntos de fado que a túa recarga, comezarás a seguinte sesión con tantos puntos de fado como terminaches a anterior.
 
-<example>Carlota gañou unha morea de puntos de fado durante a sesión de hoxe, chegando ao final con cinco puntos de fado. A súa recarga é 2, así que Carlota comezará a seguinte sesión con cinco puntos de fado. Pero Eloisa chegou ao final de sesión con apenas un punto de fado. A súa recarga é 3, así que comezará a seguinte sesión con tres puntos de fado, non só o un que tiña ao final.</example>
+> Carlota gañou unha morea de puntos de fado durante a sesión de hoxe, chegando ao final con cinco puntos de fado. A súa recarga é 2, así que Carlota comezará a seguinte sesión con cinco puntos de fado. Pero Eloisa chegou ao final de sesión con apenas un punto de fado. A súa recarga é 3, así que comezará a seguinte sesión con tres puntos de fado, non só o un que tiña ao final.
 
 ### Talentos
 
@@ -189,15 +189,15 @@ A túa personaxe comeza con tres espazos para talentos. Non tes que definilos to
 
 Os talentos escríbelos ti mesmo ao construíres a personaxe. A grandes trazos, hai dous tipos de talentos.
 
-**Talentos que outorgan bonificador**: O primeiro tipo de talento **dáche un bonificador +2** ao usares unha habilidade concreta dentro de certos parámetros, normalmente limitándote a [un tipo específico de acción](/fate-condensado/accions-e-roladas#accions) e circunstancia narrativa.
+**Talentos que outorgan bonificador**: O primeiro tipo de talento **dáche un bonificador +2** ao usares unha habilidade concreta dentro de certos parámetros, normalmente limitándote a [un tipo específico de acción](/fate-condensado-srd/accions-e-roladas#accions) e circunstancia narrativa.
 
 Formula este tipo de talento deste xeito:
 
-_Posto que **[describe de que forma eres abraiante ou tes un equipamento incrible]**, obteño +2 ao usar **[escolle unha habilidade]** para **[elixe: superar, crear unha vantaxe, atacar, defender]** cando **[describe unha circunstancia]**._
+_Posto que **[describe de que forma es abraiante ou tes un equipamento incrible]**, obteño +2 ao usar **[escolle unha habilidade]** para **[elixe: superar, crear unha vantaxe, atacar, defender]** cando **[describe unha circunstancia]**._
 
 Exemplo de talento que outorga bonificador:
 
-> Posto que son **un francotirador do exército**, obteño +2 ao usar **Tiro** para **atacar** cando **teño un albo <aspect>No punto de mira</aspect>**.
+> Posto que son **un francotirador do exército**, obteño +2 ao usar **Tiro** para **atacar** cando **tiver un albo `No punto de mira`**.
 
 **Talentos que mudan as regras**: O segundo tipo de talento **muda as regras do xogo**. Esta categoría é ampla e inclúe, pero non se limita, ao seguinte:
 
@@ -224,22 +224,22 @@ O teu nivel en Vigor condiciona cantas caixas de estrés físico tes en total. V
 
 | Vigor/Vontade                  | Estrés físico/mental |
 | ------------------------------ | -------------------- |
-| Mediocre (+0)                  | <stress>1</stress><stress>1</stress><stress>1</stress>     |
-| Regular (+1) ou razoable (+2)  | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress>   |
-| Bo (+3) ou formidable (+4)     | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress><stress>1</stress><stress>1</stress> |
-| Soberbio (+5) ou maior         | <stress>1</stress><stress>1</stress><stress>1</stress> <stress>1</stress><stress>1</stress><stress>1</stress> e un segundo espazo de consecuencia leve específicamente para impactos físicos ou mentais |
+| Mediocre (+0)                  | [1][1][1]     |
+| Regular (+1) ou razoable (+2)  | [1][1][1] [1]   |
+| Bo (+3) ou formidable (+4)     | [1][1][1] [1][1][1] |
+| Soberbio (+5) ou maior         | [1][1][1] [1][1][1] e un segundo espazo de consecuencia leve específicamente para impactos físicos ou mentais |
 
-Aprenderás máis sobre como funcionan o estrés e as consecuencias na sección [_Recibir dano_](/fate-condensado/desafios-competicions-e-conflitos#recibir-dano).
+Aprenderás máis sobre como funcionan o estrés e as consecuencias na sección [_Recibir dano_](/fate-condensado-srd/desafios-competicions-e-conflitos#recibir-dano).
 
 #### Para aí, isto non é o que lembro eu!
 
-En _Fate Condensado_ usamos soamente caixas de estrés de 1 punto. Tanto _Fate Básico_ como _Fate Acelerado_ usaban unha serie de caixas de valores crecentes (unha caixa de 1 punto, unha caixa de 2 puntos, etc). Podes usar ese tipo de caixas se queres, nós para esta versión decidimos quedarnos coas caixas de 1 punto porque son máis sinxelas; co outro metodo, a xente leábase máis a miúdo.
+En _Fate Condensado_ usamos soamente caixas de estrés de 1 punto. Tanto _Fate Básico_ como _Fate Acelerado_ usaban unha serie de caixas de valores crecentes (unha caixa de 1 punto, unha caixa de 2 puntos, etc). Podes usar ese tipo de caixas se queres, nós para esta versión decidimos quedarnos coas caixas de 1 punto porque son máis sinxelas; co outro metodo, a xente confundíase máis a miúdo.
 
 Hai outras particularidades deste estilo que cómpre que teñas en conta.
 
-* Como verás na sección [_Recibir dano_](/fate-condensado/desafios-competicions-e-conflitos#recibir-dano), coas caixas de 1 punto podes marcar tantas como ti queiras cando che impactan (no estilo crecente de Fate Básico, pola contra, estabas limitado a marcar unha caixa por impacto).
-* Este estilo acompaña ao costume de Fate Básico de ter barras separadas para estrés físico e mental, en troques de unha barra unificada como en Fate Acelerado. Se prefires unha barra unificada, engade tres caixas máis para compensar, e usa _ou_ Vigor _ou_ Vontade, o de máis nivel, para alongala como se indicaba na táboa.
-* Unha absorción de tres puntos en cada barra non che é moito! Se notades que as personaxes se sinten un pouco fráxiles nas partidas, talvez queirades engadir unha ou dúas caixas máis á cantidade predeterminada. Todo depende de como de rápido vaian chegando as consecuencias. (Co estilo vello, unha barra con <stress>1</stress><stress>2</stress> absorbía entre 2 e 3 de estrés, <stress>1</stress><stress>2</stress><stress>3</stress> de 3 a 6, <stress>1</stress><stress>2</stress><stress>3</stress><stress>4</stress> de 4 a 10).
+* Como verás na sección [_Recibir dano_](/fate-condensado-srd/desafios-competicions-e-conflitos#recibir-dano), coas caixas de 1 punto podes marcar tantas como ti queiras cando che impactan (no estilo crecente de Fate Básico, pola contra, estabas limitado a marcar unha caixa por impacto).
+* Este estilo acompaña ao costume de Fate Básico de ter barras separadas para estrés físico e mental, en troques de unha barra unificada como en Fate Acelerado. Se prefires unha barra unificada, engade tres caixas máis para compensar, e usa _ou_ Vigor _ou_ Vontade, o de máis nivel, para alongala como se indica na táboa.
+* Unha absorción de tres puntos en cada barra non che é moito! Se notades que as personaxes se sinten un pouco fráxiles nas partidas, talvez queirades engadir unha ou dúas caixas máis á cantidade predeterminada. Todo depende de como de rápido vaian chegando as consecuencias. (Co estilo vello, unha barra con [1][2] absorbía entre 2 e 3 de estrés, [1][2][3] de 3 a 6, [1][2][3][4] de 4 a 10).
 
 
 ### Derradeiros detalles
